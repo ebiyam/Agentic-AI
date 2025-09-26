@@ -52,5 +52,7 @@ Now, the loop starts over again from Step 2. The agent uses the new information 
 
 This "Think -> Act -> Observe -> Think Again" cycle continues until the main goal is finally achieved and the case is solved.
 
+<img width="1118" height="555" alt="agentic-loop" src="https://github.com/user-attachments/assets/0a93eca2-779d-42cd-b8d2-e3bf4d47b6e4" />
+
 
 
